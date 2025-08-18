@@ -1,0 +1,6 @@
+[submodule "VM"]
+	path = VM
+	url = https://github.com/Shiva9361/VM
+[submodule "OS"]
+	path = OS
+	url = https://github.com/Mokshith1708/OS
