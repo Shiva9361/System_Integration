@@ -4,3 +4,6 @@
 [submodule "OS"]
 	path = OS
 	url = https://github.com/Mokshith1708/OS
+[submodule "Programming_Language"]
+	path = Programming_Language
+	url = https://github.com/Snehitha1312/Programming_Language
