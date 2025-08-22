@@ -7,3 +7,6 @@
 [submodule "Programming_Language"]
 	path = Programming_Language
 	url = https://github.com/Snehitha1312/Programming_Language
+[submodule "CSD_Lab_Processor"]
+	path = CSD_Lab_Processor
+	url = https://github.com/Akileshdash/CSD_Lab_Processor.git
