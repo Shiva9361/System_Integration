@@ -10,3 +10,6 @@
 [submodule "CSD_Lab_Processor"]
 	path = CSD_Lab_Processor
 	url = https://github.com/Akileshdash/CSD_Lab_Processor.git
+[submodule "ARM_ALL"]
+	path = ARM_ALL
+	url = https://github.com/Ikshitha1004/ARM_ALL
