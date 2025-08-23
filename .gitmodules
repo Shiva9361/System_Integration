@@ -1,15 +1,20 @@
 [submodule "VM"]
 	path = VM
 	url = https://github.com/Shiva9361/VM
+	branch = main
 [submodule "OS"]
 	path = OS
 	url = https://github.com/Mokshith1708/OS
+	branch = main
 [submodule "Programming_Language"]
 	path = Programming_Language
 	url = https://github.com/Snehitha1312/Programming_Language
+	branch = main
 [submodule "CSD_Lab_Processor"]
 	path = CSD_Lab_Processor
 	url = https://github.com/Akileshdash/CSD_Lab_Processor.git
+	branch = main
 [submodule "ARM_ALL"]
 	path = ARM_ALL
 	url = https://github.com/Ikshitha1004/ARM_ALL
+	branch = main
