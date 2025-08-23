@@ -1,0 +1,11 @@
+# Vivado files ignore
+
+*.cache
+*.hw
+*.ip_user_files
+*.sim
+*.log
+*.jou
+*.str
+*.xpr
+.Xil
