@@ -18,3 +18,7 @@
 	path = ARM_ALL
 	url = https://github.com/Ikshitha1004/ARM_ALL
 	branch = main
+[submodule "CS401P_Compiler"]
+	path = CS401P_Compiler
+	url = https://github.com/SasaankJanapati/CS401P_Compiler
+	branch = main
