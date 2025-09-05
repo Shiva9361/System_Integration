@@ -1,5 +1,5 @@
 # Vivado files ignore
-
+# for now ignoring the constraint files too
 *.cache
 *.hw
 *.ip_user_files
@@ -8,4 +8,7 @@
 *.jou
 *.str
 *.xpr
+*.runs
 .Xil
+*.xdc 
+module2
