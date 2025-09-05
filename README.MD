@@ -15,11 +15,11 @@ All the subparts of the project can be accessed as submodules from here
 - Each button added 1 to the counter.
 
 Demo can be found below
-<video width="640" height="360" controls>
 
-<source src="module_3_demo.mp4" type="video/mp4">
 
-</video>
+![](module_3_demo.mp4)
+
+
 
 ## Module 1
 
