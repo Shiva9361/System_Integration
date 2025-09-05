@@ -17,7 +17,7 @@ All the subparts of the project can be accessed as submodules from here
 Demo can be found below
 
 
-[![Watch the video](https://static.vecteezy.com/system/resources/previews/000/577/015/original/play-button-icon-vector-illustration.jpg)](https://raw.githubusercontent.com/Shiva9361/System_Integration/main/module_3_demo.mp4)
+<video src="https://raw.githubusercontent.com/Shiva9361/System_Integration/main/module_3_demo.mp4" width="480" controls></video>
 
 
 
