@@ -17,7 +17,7 @@ All the subparts of the project can be accessed as submodules from here
 Demo can be found below
 
 
-![Video](https://raw.githubusercontent.com/Shiva9361/System_Integration/blob/main/module_3_demo.mp4)
+![Video](https://raw.githubusercontent.com/Shiva9361/System_Integration/main/module_3_demo.mp4)
 
 
 
