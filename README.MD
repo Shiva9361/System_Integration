@@ -26,3 +26,6 @@ Demo can be found below
 The test files can be found at [Module1](https://github.com/Shiva9361/System_Integration/tree/main/module1/module_1/module_1.srcs/sources_1/new)
 
 - Everyone Contributed equally by sitting together and creating the doc
+
+[Module 1](https://docs.google.com/document/d/1ibhFBYQdY9WC_1sB-cqwJKrqzLwdqx66TzhBdcoqs7U/edit?usp=sharing)
+[Module 2](https://docs.google.com/document/d/1Pg8S7H9oVRY_UBi2KXBR07aXZiWxXAMztHt2r2DBdRM/edit?usp=sharing)
